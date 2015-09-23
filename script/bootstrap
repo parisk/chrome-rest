@@ -1,0 +1,5 @@
+#! /usr/bin/env
+
+# Install dependencies
+brew install chrome-cli
+pip install -r requirements.txt
